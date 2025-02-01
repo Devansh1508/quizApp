@@ -2,8 +2,12 @@
 
 A web app where you can test your skill.
 
+* Image 1 
 ![Quiz App Screenshot](./src/ui%20images/1.png)
+* Image 2
 ![Quiz App Screenshot](./src/ui%20images/2.png)
+
+* Image 3
 ![Quiz App Screenshot](./src/ui%20images/3.png)
 
 ## Project Overview
@@ -19,7 +23,7 @@ This project is a quiz application built with React and Vite. Users can start a 
 
 ## Demo Video
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/jz5ZFV2YIc8" frameborder="0" allowfullscreen></iframe>
+[Watch the demo video on YouTube](https://www.youtube.com/watch?v=jz5ZFV2YIc8)
 
 ## Setup Instructions
 
