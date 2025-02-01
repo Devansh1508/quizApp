@@ -2,11 +2,6 @@
 
 A web app where you can test your skill.
 
-<video width="600" controls>
-  <source src="./src/ui images/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ![Quiz App Screenshot](./src/ui%20images/1.png)
 ![Quiz App Screenshot](./src/ui%20images/2.png)
 ![Quiz App Screenshot](./src/ui%20images/3.png)
@@ -21,8 +16,10 @@ This project is a quiz application built with React and Vite. Users can start a 
 - Answer multiple-choice questions
 - Receive feedback on answers
 - View detailed solutions for incorrect answers
-- See final results with a score and percentage
-- Confetti animation for high scores
+
+## Demo Video
+
+<iframe width="600" height="400" src="https://www.youtube.com/embed/jz5ZFV2YIc8" frameborder="0" allowfullscreen></iframe>
 
 ## Setup Instructions
 
@@ -38,6 +35,3 @@ This project is a quiz application built with React and Vite. Users can start a 
    ```sh
    git clone https://github.com/your-username/quizApp.git
    cd quizApp
-
-   npm install
-
