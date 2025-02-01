@@ -39,3 +39,4 @@ This project is a quiz application built with React and Vite. Users can start a 
    ```sh
    git clone https://github.com/your-username/quizApp.git
    cd quizApp
+   npm install --force
